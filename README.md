@@ -3,6 +3,7 @@ Introducción
 El proyecto es una tienda en línea llamada CLOTHESSTORE, especializada en la venta de ropa y accesorios. La página web está construida con tecnologías web modernas y consume una API pública para mostrar los productos. Incluye un carrito de compras, una pasarela de pago simulada y la generación de un ticket en PDF con formato de recibo térmico.
 
 Objetivos principales
+
 Crear una interfaz de usuario atractiva y responsiva que muestre los productos en tarjetas.
 
 Implementar un carrito de compras que permite agregar, modificar y eliminar productos.
